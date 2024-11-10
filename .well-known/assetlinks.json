@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.locanda.app",
+    "sha256_cert_fingerprints": [
+      "34:85:4A:A6:58:6B:39:9A:0F:F2:D0:8A:2A:06:71:22:9A:F6:AA:11:DB:82:E8:0D:39:E1:6C:76:ED:68:64:42"
+    ]
+  }
+}]
